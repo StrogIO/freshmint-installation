@@ -16,7 +16,7 @@ This is a cheatsheet for a headless start-up of StogIO project:
 In general amazon GreenGrass tutorial: [Setting Up a Raspberry Pi](https://docs.aws.amazon.com/greengrass/latest/developerguide/module1.html) is what we building
 
 ```
-Tip: rememer path to folders where you work
+Tip: remember path to folders where you work
 ```
 
 1. Download [Raspbian Stretch Lite](https://www.raspberrypi.org/downloads/raspbian/);
