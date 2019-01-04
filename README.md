@@ -10,6 +10,7 @@ This is a cheatsheet for a headless start-up of StogIO project:
 3. Raspberry
 4. Card reader for microSd if don't have one
 5. 8channals relay, 5v
+6. Power USB adapter
 
 ## Installation
 
